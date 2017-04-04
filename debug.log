@@ -1,0 +1,4 @@
+[0404/232404.974:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\temp\settings.dat: Отказано в доступе. (0x5)
+[0404/232405.144:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\temp\settings.dat: Отказано в доступе. (0x5)
+[0404/232405.195:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Канал был закрыт. (0x6D)
+[0404/232405.263:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
